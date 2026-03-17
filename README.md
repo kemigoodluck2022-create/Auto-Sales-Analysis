@@ -38,18 +38,16 @@ This dashboard provides insight on:
 
 ![Portfolio Screenshot](./Portfolio2.png)
  
-This table shows revenue by product line, with colored data bars highlighting performance levels.
-🔍 Insight:
-•	Certain product lines clearly outperform others, as shown by longer data bars.
+This table shows revenue by product line analysis with colored data bars to highlight performance levels. The essence of this table is to give insight on:
+•	Certain product lines that clearly outperform others, as shown by longer data bars.
 •	Lower-performing product lines may need marketing support or strategic review.
-💡 What this means:
-•	The company can prioritize top-performing products
-•	Underperforming categories can be optimized or phased out
-________________________________________
-📈 Key Findings
-•	Revenue is unevenly distributed across product lines
-•	Geographic performance varies significantly
-•	Order status has a direct impact on profitability
+Therefore we can easily decide products that will be priortize or discontinued according to sales performance.
+
+
+## CONCLUSION
+
+The dashboard provides a clear view of sales performance according to Country, Status, Deal size and other important variables. This highlights key areas for business improvement as it provides easy view of profit and losses made on products in reltions to variables. For Example we notice that Order status has a direct impact on profitability, so to boost or increase profits, more work will be put into the successful delivery of products.
+
 
 
 
