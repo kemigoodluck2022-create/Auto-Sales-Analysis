@@ -30,8 +30,27 @@ This dashboard provides insight on:
 - Some countries consistently generate higher revenue, indicating strong market demand.
 - Order status (e.g., shipped, cancelled) directly impacts profit — cancelled or unresolved orders reduce overall profitability.
   This simply means that we can identify:
- 1 High-performing regions to focus on.
- 2 Problematic order statuses that may require operational improvement.
+ 1. High-performing regions to focus on.
+ 2. Problematic order statuses that may require operational improvement.
+
+
+### Product Line Revenue Analysis
+
+
+ 
+This table shows revenue by product line, with colored data bars highlighting performance levels.
+🔍 Insight:
+•	Certain product lines clearly outperform others, as shown by longer data bars.
+•	Lower-performing product lines may need marketing support or strategic review.
+💡 What this means:
+•	The company can prioritize top-performing products
+•	Underperforming categories can be optimized or phased out
+________________________________________
+📈 Key Findings
+•	Revenue is unevenly distributed across product lines
+•	Geographic performance varies significantly
+•	Order status has a direct impact on profitability
+
 
 
 
