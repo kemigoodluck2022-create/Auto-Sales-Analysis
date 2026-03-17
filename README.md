@@ -19,19 +19,19 @@ Analysis of Car sales Performance with the aid of Excel utilizing Pivot tables, 
 2. How do sales and profit vary across different countries?
 3. How does order status affect overall performance?
 
-   🌍 Interactive Analysis (Country & Status Filters)
+  ### Interactive Dashboard Analysis :-Country & Status Filters
 
 (![Portfolio Screenshot](./Portfolio1.png)
  
 This section of the dashboard allows users to filter data by Country and Order Status.
-🔍 Insight:
-•	Sales and profit change significantly depending on the selected country.
-•	Some countries consistently generate higher revenue, indicating strong market demand.
-•	Order status (e.g., shipped, cancelled) directly impacts profit — cancelled or unresolved orders reduce overall profitability.
-💡 What this means:
-Businesses can identify:
-•	High-performing regions to focus on
-•	Problematic order statuses that may require operational improvement
+When any value in the dropdown is clicked, it filters out sales and profit vlaues according to selected status or country. 
+This dashboard provides insight on:
+-	Sales and profit change significantly depending on the selected country.
+- Some countries consistently generate higher revenue, indicating strong market demand.
+- Order status (e.g., shipped, cancelled) directly impacts profit — cancelled or unresolved orders reduce overall profitability.
+  This simply means that we can identify:
+ 1 High-performing regions to focus on.
+ 2 Problematic order statuses that may require operational improvement.
 
 
 
