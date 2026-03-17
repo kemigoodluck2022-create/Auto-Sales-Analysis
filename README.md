@@ -21,7 +21,7 @@ Analysis of Car sales Performance with the aid of Excel utilizing Pivot tables, 
 
    🌍 Interactive Analysis (Country & Status Filters)
 
- 
+(![Portfolio Screenshot](./Portfolio1.png)
  
 This section of the dashboard allows users to filter data by Country and Order Status.
 🔍 Insight:
