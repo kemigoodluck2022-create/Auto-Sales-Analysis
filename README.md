@@ -1,6 +1,6 @@
 
 
-# Auto-Sales-Analysis
+# Auto Sales Analysis
 Project-Overview
 Analysis of Car sales Performance with the aid of Excel utilizing Pivot tables, slicers and charts.
 The dashboard provides insights into:
