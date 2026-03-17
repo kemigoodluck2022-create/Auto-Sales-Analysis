@@ -20,7 +20,7 @@ Analysis of Car sales Performance with the aid of Excel utilizing Pivot tables, 
 3. How does order status affect overall performance?
 
    🌍 Interactive Analysis (Country & Status Filters)
-   
+   "C:\Users\HomePC\Pictures\Screenshots\Portfolio1.png"
  
 This section of the dashboard allows users to filter data by Country and Order Status.
 🔍 Insight:
