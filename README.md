@@ -36,7 +36,7 @@ This dashboard provides insight on:
 
 ### Product Line Revenue Analysis
 
-
+![Portfolio Screenshot](./Portfolio2.png)
  
 This table shows revenue by product line, with colored data bars highlighting performance levels.
 🔍 Insight:
