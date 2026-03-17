@@ -1,5 +1,5 @@
 # Auto Sales Analysis
-## **PROJECT OVERVIEW**
+## PROJECT OVERVIEW
 Analysis of Car sales Performance with the aid of Excel utilizing Pivot tables, slicers and charts. This project analyzes auto sales data to understand how different factors such as country, product line, and order status impact revenue and profitability. The dashboard provides insights into:
 - Sales performance
 - Product line performance
@@ -7,7 +7,7 @@ Analysis of Car sales Performance with the aid of Excel utilizing Pivot tables, 
 - Profitability
 - Monthly sales trends
 
- ## ** TOOLS**
+ ## TOOLS
 - Data Cleaning
 - Microsoft Excel
 - Pivot Tables
